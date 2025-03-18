@@ -2,7 +2,7 @@
 
 This package provides an implementation of the iLED modeling approach.
 
-Menier, E., Kaltenbach, S., Yagoubi, M., Schoenauer, M., & Koumoutsakos, P., <em>Interpretable Learning of Effective Dynamics for multiscale systems</em>, Proceedings A, The Royal Society, 2025.
+Menier, E., Kaltenbach, S., Yagoubi, M., Schoenauer, M. & Koumoutsakos, P.: <em>Interpretable Learning of Effective Dynamics for multiscale systems</em>, Proceedings A, The Royal Society, 2025.
 
 Paper available [here](https://royalsocietypublishing.org/doi/epdf/10.1098/rspa.2024.0167).
 
