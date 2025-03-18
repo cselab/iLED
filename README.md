@@ -1,15 +1,17 @@
 # iLED
 
-This package provides an implementation of the iled modeling approach.
+This package provides an implementation of the iLED modeling approach.
 
-Menier, E., Kaltenbach, S., Yagoubi, M., Schoenauer, M., & Koumoutsakos, P. (2023). <em>Interpretable Learning of Effective Dynamics for multiscale systems</em>, [arXiv](https://arxiv.org/abs/2309.05812).
+Menier, E., Kaltenbach, S., Yagoubi, M., Schoenauer, M., & Koumoutsakos, P., <em>Interpretable Learning of Effective Dynamics for multiscale systems</em>, Proceedings A, The Royal Society, 2025.
+
+Paper available [here](https://royalsocietypublishing.org/doi/epdf/10.1098/rspa.2024.0167).
 
 ## Installation
 
 The package can be installed by first cloning the repository:
 
 ```
-git clone git@github.com:emenier/iled.git
+git clone git@github.com:cselab/iLED.git
 ```
 
 Then installing through the following command:
